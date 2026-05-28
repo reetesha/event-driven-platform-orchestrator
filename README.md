@@ -1,7 +1,5 @@
 # Event-Driven Platform Orchestrator Architecture
 
-# Event-Driven Platform Orchestrator
-
 ## Architecture
 
 Frontend:
@@ -129,3 +127,5 @@ event-driven-platform-orchestrator/
 │   └── tracing/
 │
 └── README.md
+
+
